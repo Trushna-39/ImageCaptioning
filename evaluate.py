@@ -2,7 +2,7 @@
 """
 Created on Mon Apr 20 22:03:30 2020
 
-@author: Kirtan
+@author: Trushna
 """
 
 from numpy import argmax

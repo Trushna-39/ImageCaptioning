@@ -226,6 +226,3 @@ filename = 'model-ep004-loss3.868-val_loss4.273.h5'
 model = load_model(filename)
 # evaluate model
 evaluate_model(model, objects1, test_descriptions, test_features, tok, tokenizer, max_length, max_length_obj)
-
-'''model-ep004-loss3.883-val_loss4.295.h5 #12 epochs'''
-''''model-ep005-loss3.656-val_loss4.307.h5'#13epochs'''

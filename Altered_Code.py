@@ -2,14 +2,14 @@
 """
 Created on Mon Apr 20 10:49:05 2020
 
-@author: Kirtan
+@author: Trushna
 """
 
 # -*- coding: utf-8 -*-
 """
 Created on Tue Feb  4 10:44:39 2020
 
-@author: Kirtan Patel
+@author: Trushna Patel
 """
 
 from numpy import array

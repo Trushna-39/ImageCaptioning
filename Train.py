@@ -2,7 +2,7 @@
 """
 Created on Tue Feb  4 10:44:39 2020
 
-@author: Kirtan Patel
+@author: Trushna Patel
 """
 
 from numpy import array
